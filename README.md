@@ -9,7 +9,7 @@
 # Required Packages
 The code is written in a Jupyter Notebook with a Python 3.8 kernel, and in addition it requires the following packages:
 
-*Numpy 
+*Numpy
 *Pandas 
 *Matplotlib 
 *Seaborn 
